@@ -1,0 +1,24 @@
+{
+  "name": "todolist-v1",
+  "version": "1.0.0",
+  "description": "a todo list for myself vr 1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlutterRaj/ToDoList.git"
+  },
+  "author": "Raj kar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlutterRaj/ToDoList/issues"
+  },
+  "homepage": "https://github.com/FlutterRaj/ToDoList#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1"
+  }
+}
